@@ -3,11 +3,11 @@
 This project is a fun and interactive JavaScript game where players try to guess a randomly generated number. It provides dynamic feedback based on the user's input, showcasing the ability to create engaging user experiences.
 
 ## Project Link
-[Link it](https://priyanshucoder007.github.io/Fun-Number-Game/)
+[Link Here](https://priyanshucoder007.github.io/Fun-Number-Game/)
 
 ## How to Play:
-Open the game in your browser.<br>
-Read the instructions and the guessing range.<br>
+● Open the game in your browser.<br>
+● Read the instructions and the guessing range.<br>
 Enter your guess in the input field.<br>
 Click the "Guess" button.<br>
 The game will tell you if your guess is correct, too high, or too low.<br>
